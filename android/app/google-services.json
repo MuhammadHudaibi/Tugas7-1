@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274782539437",
+    "project_id": "tugas7-1",
+    "storage_bucket": "tugas7-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274782539437:android:0f31e27e6a14ff55280024",
+        "android_client_info": {
+          "package_name": "com.example.tugas7_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRj7O7oBgRP1c4YBae0o7lIp5EZirSrT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
